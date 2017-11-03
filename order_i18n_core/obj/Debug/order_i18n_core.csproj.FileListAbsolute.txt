@@ -1,0 +1,6 @@
+C:\Users\doval\source\repos\order_i18n\order_i18n_core\bin\Debug\order_i18n_core.dll
+C:\Users\doval\source\repos\order_i18n\order_i18n_core\bin\Debug\order_i18n_core.pdb
+C:\Users\doval\source\repos\order_i18n\order_i18n_core\obj\Debug\order_i18n_core.csproj.CoreCompileInputs.cache
+C:\Users\doval\source\repos\order_i18n\order_i18n_core\obj\Debug\order_i18n_core.dll
+C:\Users\doval\source\repos\order_i18n\order_i18n_core\obj\Debug\order_i18n_core.pdb
+C:\Users\doval\source\repos\order_i18n\order_i18n_core\obj\Debug\order_i18n_core.csprojResolveAssemblyReference.cache

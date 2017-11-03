@@ -1,0 +1,12 @@
+C:\Users\doval\source\repos\order_i18n\order_i18n\bin\Debug\order_i18n.exe.config
+C:\Users\doval\source\repos\order_i18n\order_i18n\bin\Debug\order_i18n.exe
+C:\Users\doval\source\repos\order_i18n\order_i18n\bin\Debug\order_i18n.pdb
+C:\Users\doval\source\repos\order_i18n\order_i18n\obj\Debug\order_i18n.csprojResolveAssemblyReference.cache
+C:\Users\doval\source\repos\order_i18n\order_i18n\obj\Debug\order_i18n.Properties.Resources.resources
+C:\Users\doval\source\repos\order_i18n\order_i18n\obj\Debug\order_i18n.csproj.GenerateResource.Cache
+C:\Users\doval\source\repos\order_i18n\order_i18n\obj\Debug\order_i18n.csproj.CoreCompileInputs.cache
+C:\Users\doval\source\repos\order_i18n\order_i18n\obj\Debug\order_i18n.exe
+C:\Users\doval\source\repos\order_i18n\order_i18n\obj\Debug\order_i18n.pdb
+C:\Users\doval\source\repos\order_i18n\order_i18n\obj\Debug\order_i18n.FormPrincipal.resources
+C:\Users\doval\source\repos\order_i18n\order_i18n\bin\Debug\order_i18n_core.dll
+C:\Users\doval\source\repos\order_i18n\order_i18n\bin\Debug\order_i18n_core.pdb
